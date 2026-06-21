@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "e4d6611ea890446cbb01ebbfc5cff097"
+API_KEY = "API_KEY"
 
 
 def search_news(query):
